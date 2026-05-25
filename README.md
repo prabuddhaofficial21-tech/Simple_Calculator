@@ -16,8 +16,3 @@ To compile and run this program, you will need a C compiler installed on your sy
 * **macOS:** Install Xcode Command Line Tools by running `xcode-select --install` in the terminal.
 * **Linux:** Install GCC (usually included by default). If not, run `sudo apt install build-essential`.
 
-## Getting Started
-
-### 1. Clone the repository
-```bash
-git clone 
